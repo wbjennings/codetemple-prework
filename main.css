@@ -1,0 +1,99 @@
+.mainLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.directory{
+    list-style-type: none;
+    margin: 0;
+    width: 518px;
+    margin-left: 568px;
+    margin-right: 568px;
+    padding: 0;
+    padding-left: 250px;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+    border-radius: 3px;
+}
+
+body {
+    background-color: rgb(215, 215, 217);
+}
+
+li {
+    float: left;   
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.mainPage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    background-color: #333;
+    width: 758px;
+    height: auto;
+    margin-left: 568px;
+    margin-right: 568px;
+    color: white;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.aboutFoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.uspa {
+    color: white;
+}
+
+.footer {
+    background-color: #333;
+    width: 768px;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+form {
+    text-align: center;
+    padding: 5px;
+}
+
+.contact {
+    text-align: center;
+}
+
+input[type=text] {
+    width: 250px;
+}
+
+input[type=email] {
+    width: 250px;
+}
+
+input {
+    margin-top: 25px;
+}
